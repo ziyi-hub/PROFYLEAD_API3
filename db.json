@@ -1,5 +1,38 @@
 {
 
+  "socials": [
+    {
+      "id": 1,
+      "type": "WhatsApp",
+      "nbClicks": 67
+    },
+    {
+      "id": 2,
+      "type": "LinkedIn",
+      "nbClicks": 64
+    },
+    {
+      "id": 3,
+      "type": "YouTube",
+      "nbClicks": 62
+    },
+    {
+      "id": 4,
+      "type": "Twitter",
+      "nbClicks": 60
+    },
+    {
+      "id": 5,
+      "type": "Facebook",
+      "nbClicks": 59
+    },
+    {
+      "id": 6,
+      "type": "WeChat",
+      "nbClicks": 57
+    }
+  ],
+
   "pictures": [
     {
       "id": 1,
