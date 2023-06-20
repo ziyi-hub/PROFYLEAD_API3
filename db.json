@@ -1,322 +1,70 @@
 {
-  
-  "classements": {
-    
-    "day" : [
-      {
-        "ranking": 1,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Kim",
-          "nom": "To"
-        },
-        "vues" : 6,
-        "leads": 62
+  "teams": [
+    {
+      "id": 1,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Kim",
+        "last_name": "To"
       },
-      {
-        "ranking": 2,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Maëlle",
-          "nom": "Krayon"
-        },
-        "vues" : 9,
-        "leads": 64
+      "views" : 6,
+      "leads": 62,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    },
+    {
+      "id": 2,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Maëlle",
+        "last_name": "Krayon"
       },
-      {
-        "ranking": 3,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Léo",
-          "nom": "Sambuc"
-        },
-        "vues" : 7,
-        "leads": 56
+      "views" : 9,
+      "leads": 64,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    },
+    {
+      "id": 3,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Léo",
+        "last_name": "Sambuc"
       },
-      {
-        "ranking": 4,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Paul",
-          "nom": "Wilstein"
-        },
-        "vues" : 10,
-        "leads": 67
+      "views" : 7,
+      "leads": 56,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    },
+    {
+      "id": 4,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Paul",
+        "last_name": "Wilstein"
       },
-      {
-        "ranking": 6,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Tom",
-          "nom": "Bourguignon"
-        },
-        "vues" : 5,
-        "leads": 26
+      "views" : 10,
+      "leads": 67,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    },
+    {
+      "id": 5,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Tom",
+        "last_name": "Bourguignon"
       },
-      {
-        "ranking": 5,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Luc",
-          "nom": "Tyfen"
-        },
-        "vues" : 8,
-        "leads": 55
-      }
-    ],
-    
-    "week" : [
-      {
-        "ranking": 3,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Kim",
-          "nom": "To"
-        },
-        "vues" : 30,
-        "leads": 62
+      "views" : 5,
+      "leads": 26,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    },
+    {
+      "id": 6,
+      "author": {
+        "img": "https://github.com/mdo.png",
+        "first_name": "Luc",
+        "last_name": "Tyfen"
       },
-      {
-        "ranking": 2,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Maëlle",
-          "nom": "Krayon"
-        },
-        "vues" : 40,
-        "leads": 64
-      },
-      {
-        "ranking": 4,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Léo",
-          "nom": "Sambuc"
-        },
-        "vues" : 20,
-        "leads": 56
-      },
-      {
-        "ranking": 1,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Paul",
-          "nom": "Wilstein"
-        },
-        "vues" : 50,
-        "leads": 67
-      },
-      {
-        "ranking": 6,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Tom",
-          "nom": "Bourguignon"
-        },
-        "vues" : 70,
-        "leads": 26
-      },
-      {
-        "ranking": 5,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Luc",
-          "nom": "Tyfen"
-        },
-        "vues" : 90,
-        "leads": 55
-      }
-    ],
-    
-     "month" : [
-      {
-        "ranking": 1,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Kim",
-          "nom": "To"
-        },
-        "vues" : 176,
-        "leads": 62
-      },
-      {
-        "ranking": 4,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Maëlle",
-          "nom": "Krayon"
-        },
-        "vues" : 197,
-        "leads": 64
-      },
-      {
-        "ranking": 2,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Léo",
-          "nom": "Sambuc"
-        },
-        "vues" : 175,
-        "leads": 56
-      },
-      {
-        "ranking": 3,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Paul",
-          "nom": "Wilstein"
-        },
-        "vues" : 106,
-        "leads": 67
-      },
-      {
-        "ranking": 5,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Tom",
-          "nom": "Bourguignon"
-        },
-        "vues" : 150,
-        "leads": 26
-      },
-      {
-        "ranking": 6,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Luc",
-          "nom": "Tyfen"
-        },
-        "vues" : 174,
-        "leads": 55
-      }
-    ],
-    
-   "year" : [
-      {
-        "ranking": 5,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Kim",
-          "nom": "To"
-        },
-        "vues" : 280,
-        "leads": 62
-      },
-      {
-        "ranking": 6,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Maëlle",
-          "nom": "Krayon"
-        },
-        "vues" : 200,
-        "leads": 64
-      },
-      {
-        "ranking": 1,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Léo",
-          "nom": "Sambuc"
-        },
-        "vues" : 300,
-        "leads": 56
-      },
-      {
-        "ranking": 2,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Paul",
-          "nom": "Wilstein"
-        },
-        "vues" : 360,
-        "leads": 67
-      },
-      {
-        "ranking": 3,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Tom",
-          "nom": "Bourguignon"
-        },
-        "vues" : 350,
-        "leads": 26
-      },
-      {
-        "ranking": 4,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Luc",
-          "nom": "Tyfen"
-        },
-        "vues" : 374,
-        "leads": 55
-      }
-    ],
-    
-     "all" : [
-      {
-        "ranking": 3,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Kim",
-          "nom": "To"
-        },
-        "vues" : 476,
-        "leads": 62
-      },
-      {
-        "ranking": 6,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Maëlle",
-          "nom": "Krayon"
-        },
-        "vues" : 497,
-        "leads": 64
-      },
-      {
-        "ranking": 4,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Léo",
-          "nom": "Sambuc"
-        },
-        "vues" : 475,
-        "leads": 56
-      },
-      {
-        "ranking": 1,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Paul",
-          "nom": "Wilstein"
-        },
-        "vues" : 406,
-        "leads": 67
-      },
-      {
-        "ranking": 5,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Tom",
-          "nom": "Bourguignon"
-        },
-        "vues" : 450,
-        "leads": 26
-      },
-      {
-        "ranking": 2,
-        "author": {
-          "image": "https://github.com/mdo.png",
-          "prenom": "Luc",
-          "nom": "Tyfen"
-        },
-        "vues" : 474,
-        "leads": 55
-      }
-    ]
-    
-  }
-  
+      "views" : 8,
+      "leads": 55,
+      "created_at": "2021-06-02T14:41:36-08:00"
+    }
+  ]
 }
