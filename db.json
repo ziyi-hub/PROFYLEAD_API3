@@ -4,32 +4,38 @@
     {
       "id": 1,
       "type": "WhatsApp",
-      "nbClicks": 67
+      "nbClicks": 67,
+      "created_at": "2022-05-04T14:47:45.020253Z"
     },
     {
       "id": 2,
       "type": "LinkedIn",
-      "nbClicks": 64
+      "nbClicks": 64,
+      "created_at": "2021-06-02T14:41:36-08:00"
     },
     {
       "id": 3,
       "type": "YouTube",
-      "nbClicks": 62
+      "nbClicks": 62,
+      "created_at": "2023-06-03T14:41:36-08:00"
     },
     {
       "id": 4,
       "type": "Twitter",
-      "nbClicks": 60
+      "nbClicks": 60,
+      "created_at": "2023-06-04T14:41:36-08:00"
     },
     {
       "id": 5,
       "type": "Facebook",
-      "nbClicks": 59
+      "nbClicks": 59,
+      "created_at": "2021-06-05T14:41:36-08:00"
     },
     {
       "id": 6,
       "type": "WeChat",
-      "nbClicks": 57
+      "nbClicks": 57,
+      "created_at": "2023-06-20T14:41:36-08:00"
     }
   ],
 
