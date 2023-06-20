@@ -173,7 +173,8 @@
     {
       "id": 1,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Leader’s Template",
         "first_name": "Kim",
         "last_name": "To"
       },
@@ -184,7 +185,8 @@
     {
       "id": 2,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Salesman’s Template",
         "first_name": "Maëlle",
         "last_name": "Krayon"
       },
@@ -195,7 +197,8 @@
     {
       "id": 3,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Leader’s Template",
         "first_name": "Léo",
         "last_name": "Sambuc"
       },
@@ -206,7 +209,8 @@
     {
       "id": 4,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Salesman’s Template",
         "first_name": "Paul",
         "last_name": "Wilstein"
       },
@@ -217,7 +221,8 @@
     {
       "id": 5,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Leader’s Template",
         "first_name": "Tom",
         "last_name": "Bourguignon"
       },
@@ -228,7 +233,8 @@
     {
       "id": 6,
       "author": {
-        "img": "https://github.com/mdo.png",
+        "avatar": "https://github.com/mdo.png",
+        "template": "Salesman’s Template",
         "first_name": "Luc",
         "last_name": "Tyfen"
       },
